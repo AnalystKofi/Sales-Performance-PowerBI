@@ -80,6 +80,10 @@ DAX (Data Analysis Expressions) – for dynamic calculations
 Data Transformation Tools – for cleaning and preparation
 
 ## 🖼️ Dashboard Preview
+<img width="1842" height="930" alt="Image" src="https://github.com/user-attachments/assets/cd70fa40-2709-413f-8698-7b5ec31f9887" />
+
+## Screen Recording
+
 
 ## 🚀 Outcome
 
